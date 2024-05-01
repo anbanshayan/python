@@ -1,0 +1,1 @@
+#Write a program to display n terms of natural numbers

@@ -1,0 +1,7 @@
+a=tuple(range(10))
+b=set(range(0,20))
+c=list(range(0,110,10))
+#list(range(start,stop,end))
+print(c)
+print(b)
+print(a)
