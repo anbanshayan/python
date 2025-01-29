@@ -7,4 +7,3 @@ else:
 
 while(number == 25):
     
-d
