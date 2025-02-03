@@ -1,3 +1,4 @@
+#My Simple Calculator
 count = int(input("No of courses to be calculated = "))
 
 gpa_sum = 0
