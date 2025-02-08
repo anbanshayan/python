@@ -11,4 +11,5 @@ elif num2 > num3:
     print(num2,"is greater than ",num3)
 elif num3>num2:
     print(num3,"is greater than ",num2)
-
+elif num3>num1:
+    print(num3,"is greater than ",num2)
