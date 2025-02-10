@@ -6,8 +6,15 @@ for i in range(1,num+1):
     no = int(input("Enter a nuber"))
     lst.append(no)
     
-#Printing C
+#Printing entire list
 print(lst)
+
+# Priting sum of numbers with in list
 print(sum(lst))
+
+#Printing maximum of list
 print(max(lst))
+
+#Printing minimum of list
+
 print(min(lst))
