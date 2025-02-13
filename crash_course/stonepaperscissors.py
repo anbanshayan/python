@@ -1,2 +1,1 @@
-tool = input("Enter stone paper scissors")
-
+in = int(input("Ener name"))
